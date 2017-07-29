@@ -1,0 +1,16 @@
+Revising the Select Query II 
+by PRASHANTB1984
+Problem
+Submissions
+Leaderboard
+Discussions
+Editorial 
+Query the names of all American cities in CITY with populations larger than 120000. The CountryCode for America is USA.
+
+Input Format
+
+
+
+
+
+Select Name from City where CountryCode='USA' and Population > 120000
